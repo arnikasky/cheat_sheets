@@ -6,7 +6,7 @@
 
 3. kubectl get pods -o wide *# List all pods in the current namespace, with details*
 
-4.kubectl get deployment my-dep *# List a particular deployment*
+4. kubectl get deployment my-dep *# List a particular deployment*
 
 5. kubectl get pods *# List all pods in the namespace*
 
